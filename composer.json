@@ -1,0 +1,8 @@
+{
+    "require": {
+        "symfony/dom-crawler": "^2.8",
+        "symfony/css-selector": "^2.8",
+        "pusher/pusher-php-server": "^2.6",
+        "vlucas/phpdotenv": "^2.6"
+    }
+}
